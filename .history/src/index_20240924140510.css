@@ -1,0 +1,21 @@
+.heading{
+    text-align: center;
+}
+
+.artist-card{
+    background-color: gainsboro;
+    border-radius: 25px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.image{
+    border-radius: 25px;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+.content{
+    position: absolute;
+    
+}
